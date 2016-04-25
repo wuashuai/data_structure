@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/tony/Documents/Cornell/Fall_2015/CS2110/HW/A4/a4zip"/>
+	<classpathentry kind="lib" path="/Users/tony/Documents/Cornell/Fall_2015/CS2110/HW/A4/a4zip/lib.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/tony/Documents/Cornell/Fall_2015/CS2110/HW/A4/a4zip/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
